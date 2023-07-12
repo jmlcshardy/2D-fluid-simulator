@@ -1,5 +1,5 @@
 # 2D-fluid-simulator
-Super accurate, no bugs, Isaac Newton approved 2D physics simulator in python. 
+Super accurate, no bugs, Isaac Newton approved 2D fluid simulator in python. 
 
     1 - draw blocks
     2 - draw water
